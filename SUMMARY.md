@@ -2,8 +2,9 @@
 
 * [UX Design III](README.md)
 
-## Group 1
+## UX Portfolio
 
-* [UX Portfolio](group-1/ux-portfolio.md)
-* [Part 0 : Overview](group-1/part-0-overview.md)
-* [Part 0 : 10 Tips](group-1/part-0-10-tips.md)
+* [Part 0](ux-portfolio/part-0/README.md)
+  * [Overview](ux-portfolio/part-0/overview.md)
+  * [10 Tips](ux-portfolio/part-0/10-tips.md)
+  * [Past Student Portfolios](ux-portfolio/part-0/past-student-portfolios.md)
