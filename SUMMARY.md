@@ -17,4 +17,9 @@
 
 ## Smart Card
 
-* [Overview](smart-card/overview.md)
+* [Overview](smart-lanyard/page-1.md)
+* [✅ Check-Check](smart-card/check-check.md)
+
+## Large 4K Display
+
+* [Overview](large-4k-display/overview.md)
