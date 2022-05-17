@@ -5,7 +5,6 @@
 ## UX Portfolio
 
 * [Part 0 : Overview](ux-portfolio/part-0-overview/README.md)
-  * [Overview](ux-portfolio/part-0-overview/overview.md)
   * [10 Tips](ux-portfolio/part-0-overview/10-tips.md)
   * [Past Student Portfolios](ux-portfolio/part-0-overview/past-student-portfolios.md)
 * [Part 1 : Biography](ux-portfolio/part-1-biography.md)
