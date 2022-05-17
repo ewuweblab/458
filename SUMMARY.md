@@ -15,6 +15,6 @@
 * [Beta Version](ux-portfolio/beta-version.md)
 * [Final](ux-portfolio/final.md)
 
-## Smart Lanyard
+## Smart Card
 
-* [Page 1](smart-lanyard/page-1.md)
+* [Overview](smart-card/overview.md)
