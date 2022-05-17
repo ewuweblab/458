@@ -20,6 +20,8 @@ Understand current guidelines, suggestions, and limitations.
 * [Rethinking UI Design for TV Platforms](https://www.toptal.com/designers/ui/tv-ui-design)
 * [TV Guidelines for television experiences](https://uxdesign.cc/guidelines-designing-for-television-experience-524f19ab6357)
 * [Designing for Television](https://medium.com/this-also/designing-for-television-part-1-54508432830f)
+* [Designing for Television, Part 1](https://medium.com/this-also/designing-for-television-part-1-54508432830f)
+* [Optimizing for Large-Scale Displays](https://css-tricks.com/optimizing-large-scale-displays/)
 
 ### Existing Products
 

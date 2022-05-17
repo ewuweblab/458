@@ -13,13 +13,15 @@
 * [Part 4 : Production](ux-portfolio/part-4-production.md)
 * [Part 5 : Delivery](ux-portfolio/part-5-delivery.md)
 * [Beta Version](ux-portfolio/beta-version.md)
-* [Final](ux-portfolio/final.md)
+* [✅ Final](ux-portfolio/final.md)
 
 ## Smart Card
 
 * [Overview](smart-lanyard/page-1.md)
 * [✅ Check-Check](smart-card/check-check.md)
 
-## Large 4K Display
+## Large Displays
 
-* [Overview](large-4k-display/overview.md)
+* [Overview](large-displays/overview.md)
+* [✅ Check-Check: Contest HUD](large-displays/check-check-contest-hud.md)
+* [☑ Check-Check: Student Profile](large-displays/check-check-student-profile.md)

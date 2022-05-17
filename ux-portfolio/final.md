@@ -1,12 +1,10 @@
-# Final
+# ✅ Final
 
 {% hint style="info" %}
 FRI June 17th at 11:59pm
 {% endhint %}
 
 See Part 0 through Part 5 for details about requirements.&#x20;
-
-
 
 ### Requirements
 
