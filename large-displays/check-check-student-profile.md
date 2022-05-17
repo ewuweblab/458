@@ -6,8 +6,6 @@
 * [ ] Pick a Project that interests you most
 * [ ] Optionally, Design for both Projects
 
-### Challenge
-
 ### Requirements
 
 A, stand alone, large TV will display the _Senior Profile_. People will **not:** touch the TV, use a mouse/keyboard, etc. Only interaction is with the NFC reader and physical card.
