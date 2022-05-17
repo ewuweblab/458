@@ -15,8 +15,11 @@
 
 Understand current guidelines, suggestions, and limitations.
 
-* https://developer.apple.com/design/human-interface-guidelines/tvos/overview/themes/
-* Android TV
+* [Android TV](https://www.android.com/tv/)
+* [Apple TV](https://developer.apple.com/design/human-interface-guidelines/tvos/overview/themes/)
+* [Rethinking UI Design for TV Platforms](https://www.toptal.com/designers/ui/tv-ui-design)
+* [TV Guidelines for television experiences](https://uxdesign.cc/guidelines-designing-for-television-experience-524f19ab6357)
+* [Designing for Television](https://medium.com/this-also/designing-for-television-part-1-54508432830f)
 
 ### Existing Products
 
