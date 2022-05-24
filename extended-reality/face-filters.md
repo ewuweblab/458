@@ -9,7 +9,7 @@
 
 Download and install both _**Spark AR Studio**_ to make filters.&#x20;
 
-{% embed url="https://sparkar.facebook.com/ar-studio/" %}
+{% embed url="https://sparkar.facebook.com/ar-studio/download/" %}
 
 Download and install the _**Spark AR Player**_ to either Windows, Mac, iOS, and/or Android.&#x20;
 
