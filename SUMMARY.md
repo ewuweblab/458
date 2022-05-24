@@ -25,3 +25,8 @@
 * [Overview](large-displays/overview.md)
 * [✅ Check-Check: Contest HUD](large-displays/check-check-contest-hud.md)
 * [☑ Check-Check: Student Profile](large-displays/check-check-student-profile.md)
+
+## eXtended Reality
+
+* [Catalyst Building Tour](extended-reality/catalyst-building-tour.md)
+* [Face Filters](extended-reality/face-filters.md)
